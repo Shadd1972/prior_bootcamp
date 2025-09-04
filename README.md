@@ -94,6 +94,9 @@ Log in as Admin
 - Backend entry: `server.js`, `app/handlers`, `app/data`
 
 ---
+👥 Future options
+- Want to work on getting this actually deployed on AWS as a standalone Internet available app for others to play around with
+
 
 ✅ You're Ready!
 
